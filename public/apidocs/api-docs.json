@@ -1,0 +1,24 @@
+{
+  "apiVersion": "1.0",
+  "swaggerVersion": "1.2",
+  "basePath": "https://phase3-radahneem.c9users.io",
+  "apis": [
+    {
+      "path": "/apidocs/children.{format}",
+      "description": "Children Management"
+    },
+    {
+      "path": "/apidocs/chores.{format}",
+      "description": "Chores Management"
+    },
+    {
+      "path": "/apidocs/tasks.{format}",
+      "description": "Tasks Management"
+    }
+  ],
+  "authorizations": null,
+  "info": {
+    "title": "Chore Tracker API",
+    "description": "Uses swagger ui and docs to document the ChoreTracker API"
+  }
+}
